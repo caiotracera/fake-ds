@@ -1,14 +1,14 @@
 import { Meta, StoryObj } from '@storybook/react'
 
-import { Box, BoxProps } from '@fake-ds/react'
+import { Box, BoxProps, Text } from '@fake-ds/react'
 
 export default {
-  title: 'Components/Box',
+  title: 'Surfaces/Box',
   component: Box,
   args: {
     children: (
       <>
-        <span>Testando o elemento Box</span>
+        <Text>Testando o elemento Box</Text>
       </>
     ),
   },
