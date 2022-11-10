@@ -9,6 +9,11 @@ export default {
     src: 'https://github.com/caiotracera.png',
     alt: 'Caio Tracera',
   },
+  argTypes: {
+    src: {
+      control: { type: 'text' },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
