@@ -1,0 +1,2 @@
+import{A as t}from"./index.be8744ee.js";import"./index.ebb711a9.js";import"./iframe.1b088270.js";import"./index.86fd8e37.js";import"./jsx-runtime.fd061fae.js";const c={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/caiotracera.png",alt:"Caio Tracera"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,e as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.5bf658ac.js.map
